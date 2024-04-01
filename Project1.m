@@ -10,7 +10,7 @@ e = 0.8; % emmissivity of the box material
 sigma = 5.67e-8; % stefan boltzmans constant
 a = 1.2e-5; % thermal diffusivity of the material used in the plate
 t = 50; % total simulation time in sec
-dt = 0.1; % time step in sec
+dt = 0.01; % time step in sec
 T_initial = 25; %initial temperature condition in degree celcius
 
 %boundary condition
